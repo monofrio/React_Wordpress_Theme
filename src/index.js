@@ -1,2 +1,1 @@
-const arr = ['Javascript', 'Node', 'Webpack'];
-console.log(arr);
+const add = (x, y) => x + y
